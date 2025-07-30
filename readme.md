@@ -77,7 +77,6 @@ You can check them out on my GitHub repositories:</p>
 <h2>📫 Contact</h2>
 
 &nbsp; <p>🔗 <a href="https://www.linkedin.com/in/pablo-garc%C3%ADa-simavilla-756469222/" target="\_blank">LinkedIn</a></p>
-
 &nbsp; <p>✉️ Email: <a href="mailto:pablo.garciasimavilla@gmail.com">pablo.garciasimavilla@gmail.com</a></p>
 
 
