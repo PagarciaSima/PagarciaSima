@@ -1,3 +1,5 @@
+<h1>Pablo García Simavilla</h1>
+
 <h2>💼 Experience</h2>
 
 
@@ -74,13 +76,11 @@ You can check them out on my GitHub repositories:</p>
 
 <h2>📫 Contact</h2>
 
-<ul>
+&nbsp; <p>🔗 <a href="https://www.linkedin.com/in/pablo-garc%C3%ADa-simavilla-756469222/" target="\_blank">LinkedIn</a></p>
 
-&nbsp; <li>🔗 <a href="https://www.linkedin.com/in/pablo-garc%C3%ADa-simavilla-756469222/" target="\_blank">LinkedIn</a></li>
+&nbsp; <p>✉️ Email: <a href="mailto:pablo.garciasimavilla@gmail.com">pablo.garciasimavilla@gmail.com</a></p>
 
-&nbsp; <li>✉️ Email: <a href="mailto:pablo.garciasimavilla@gmail.com">pablo.garciasimavilla@gmail.com</a></li>
 
-</ul>
 
 
 
