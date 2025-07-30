@@ -42,7 +42,7 @@
 
 
 
-<h3>Higher National Diploma in Multiplatform Application Development</h3>
+<h3>Cross-platform application development vocational training</h3>
 
 <p><strong>TuniverS Formación</strong><br/>
 
