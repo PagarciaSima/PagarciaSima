@@ -155,10 +155,13 @@ Web application for managing and taking exams.
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=PagarciaSima&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PagarciaSima&theme=tokyonight" alt="GitHub Profile Details" width="100%"/>
     </td>
+  </tr>
+  <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PagarciaSima&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="170"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PagarciaSima&theme=tokyonight" alt="Top Languages by Repo" height="170"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PagarciaSima&theme=tokyonight" alt="Top Languages by Commit" height="170"/>
     </td>
   </tr>
 </table>
